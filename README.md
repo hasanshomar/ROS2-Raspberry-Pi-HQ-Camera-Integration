@@ -66,6 +66,6 @@ The system is divided into four main stages:
 
 The following pages walk you through a systematic setup of this system starting from the software setup all the way to writing and running the scripts used to perform the individual actions: 
 
-1. [Setting Up the Laptop]()
-2. [Setting Up the Raspberry Pi]()
-3. [Running the System]()
+1. [Setting Up the Laptop](https://github.com/hasanshomar/ROS2-Raspberry-Pi-HQ-Camera-Integration/tree/main/Setting%20up%20the%20Laptop%20)
+2. [Setting Up the Raspberry Pi](https://github.com/hasanshomar/ROS2-Raspberry-Pi-HQ-Camera-Integration/tree/main/Setting%20Up%20the%20Raspberry%20Pi)
+3. [Running the System](https://github.com/hasanshomar/ROS2-Raspberry-Pi-HQ-Camera-Integration/tree/main/Running%20the%20System)
