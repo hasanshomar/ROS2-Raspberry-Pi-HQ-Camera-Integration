@@ -55,7 +55,7 @@ This page provides a step-by-step guide to activating the entire data collection
    ```
 4. Start the MQTT to ROS publisher node:
    ```bash
-   ros2 run image_processor_test mqtt_image_publisher
+   ros2 run system publisher
    ```
 5. Confirm the node is running by checking for logs like:
    ```
@@ -75,7 +75,7 @@ This page provides a step-by-step guide to activating the entire data collection
    ```
 3. Start the ROS subscriber node to process the images:
    ```bash
-   ros2 run image_processor_test image_subscriber
+   ros2 run system subscriber
    ```
 4. Confirm the node is running by checking for logs like:
    ```
